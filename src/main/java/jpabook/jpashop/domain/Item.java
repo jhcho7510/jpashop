@@ -18,4 +18,6 @@ public class Item {
 
     @Transient
     private String status;
+
+    // 수정 - 1
 }

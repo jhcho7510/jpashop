@@ -23,4 +23,8 @@ public class Member {
 
     @Transient
     private String param; // 임의로 추가해봄
+
+    @Transient
+    private String dotori;
+
 }

@@ -26,5 +26,4 @@ public class Member {
 
     @Transient
     private String dotori;
-
 }

@@ -31,4 +31,8 @@ public class Member {
 
     private String totoro2;
 
+
+    @Transient
+    private String dotori;
+
 }

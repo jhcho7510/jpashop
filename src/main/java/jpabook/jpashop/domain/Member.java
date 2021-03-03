@@ -34,4 +34,6 @@ public class Member {
 
     @Transient
     private String dotori;
+
+    private String dodorian1;
 }

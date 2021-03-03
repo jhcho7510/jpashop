@@ -19,6 +19,7 @@ public class JpaMain {
             Order order = new Order();
             order.addOrderItem(new OrderItem());
             System.out.println("1-------------------------------");
+            System.out.println("1-----1111111111111--------------------------");
 
             tx.commit();
         } catch (Exception ex) {

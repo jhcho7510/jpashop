@@ -29,4 +29,6 @@ public class Member {
 
     private String totoro;
 
+    private String totoro2;
+
 }

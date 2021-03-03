@@ -36,4 +36,6 @@ public class Member {
     private String dotori;
 
     private String dodorian1;
+
+    private String temp1;
 }

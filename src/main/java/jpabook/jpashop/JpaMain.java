@@ -22,6 +22,8 @@ public class JpaMain {
 
 
             System.out.println("1-----1111111111111--------------------------");
+            System.out.println("1-------------------------------");
+            System.out.println("1-----1111111111111--------------------------");
 
             tx.commit();
         } catch (Exception ex) {
